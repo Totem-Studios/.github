@@ -1,6 +1,6 @@
-# 3FriendsCo
+# Breaker Labs
 
-## Welcome to the official 3FriendsCo github where we host all information about the projects and the projects itself.
+## Welcome to the official Breaker Labs GitHub where we host all information about the projects and the projects themselves.
 
 <br>
 <br>
@@ -9,12 +9,12 @@
 
 <br>
 
-##### **Most of our projects is licensed under a closed licensed which means that you are not allowed to redistribute or use any of these files without our permission. If you are unsure if the project is open source you can always click on the license.md file in the corresponding repository to check for yourself, otherwise feel free to contact us and ask.**
+##### **Most of our projects are licensed under a closed license which means that you are not allowed to redistribute or use any of these files without our permission. If you are unsure if the project is open source you can always click on the license.md file in the corresponding repository to check for yourself, otherwise feel free to contact us and ask.**
 
 ##### This is an example of how the licene can look:
 
 ```
-Copyright and disclaimer Copyright (C) Pontus Henriksson - All Rights Reserved.
+Copyright and disclaimer Copyright (C) Pontus Henriksson, Neo Mannskär - All Rights Reserved.
 
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL. UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
 
