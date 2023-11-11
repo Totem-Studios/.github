@@ -1,26 +1,36 @@
-# Breaker Labs
+# Welcome to Breaker Labs
 
-## Welcome to the official Breaker Labs GitHub where we host all information about the projects and the projects themselves.
+![Breaker Labs Logo](https://avatars.githubusercontent.com/u/118220047?s=200&v=4)
 
-<br>
-<br>
+Welcome to the official GitHub page of Breaker Labs! We are dedicated to building powerful software solutions with a focus on ease of use and efficiency. Our projects range from terminal-based applications to full-fledged IDEs and game engines. Dive into our repositories to discover tools that empower your development journey.
 
-### If you have any questions, feedback or you just want to contribute to our projects please contact us at pontushenrikssn@gmail.com
+## Featured Projects
 
-<br>
+- **[Todoi](https://github.com/BreakerLabs/Todoi)**: A terminal-based todo application perfect for those who live in the command line.
+- **[LotusLint](https://github.com/BreakerLabs/LotusLint)**: A linter that suggests improvements for cleaner, more maintainable code.
+- **[LLS-vscode](https://github.com/BreakerLabs/LLS-vscode)**: Visual Studio Code extension providing language support for Lotus, complete with syntax highlighting and auto-formatting.
+- **[Orchid-engine](https://github.com/BreakerLabs/Orchid-engine)**: A game engine crafted in Lotus and leveraging Directx12 for cutting-edge visuals.
+- **[Lavendar-IDE](https://github.com/BreakerLabs/Lavendar-IDE)**: An open-source Integrated Development Environment for streamlined coding experiences.
+- **[Documentation repository](https://github.com/BreakerLabs/docs)**: The official documentation repository for the Lotus Programming Language.
 
-##### **Most of our projects are licensed under a closed license which means that you are not allowed to redistribute or use any of these files without our permission. If you are unsure if the project is open source you can always click on the license.md file in the corresponding repository to check for yourself, otherwise feel free to contact us and ask.**
+## Getting Involved
 
-##### This is an example of how the licene can look:
+Your contributions and feedback are what help us grow and improve. If you're interested in contributing to any of our projects or have valuable feedback, please don't hesitate to reach out.
 
-```
-Copyright and disclaimer Copyright (C) Pontus Henriksson, Neo Mannskär - All Rights Reserved.
+- **Email**: [pontushenrikssn@gmail.com](mailto:pontushenrikssn@gmail.com)
 
-THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL. UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
+## Licensing
 
-The receipt or possession of the source code and/or any parts thereof does not convey or imply any right to use them for any purpose other than the purpose for which they were provided to you.
+Please note that most of our projects are proprietary and require express permission for redistribution and use. Always check the `LICENSE.md` file within each repository for specific licensing details.
 
-The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and non infringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+### Example License:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-```
+Copyright (C) 2024 Pontus Henriksson, Neo Mannskär
+
+Unauthorized copying, transferring, or reproduction of this project's contents, via any medium, is strictly prohibited unless provided with express written permission.
+
+The software is provided "AS IS" without warranty of any kind. For more details, refer to the license provided with each project.
+
+---
+
+Breaker Labs © 2024
