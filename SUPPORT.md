@@ -12,6 +12,8 @@ If you have found a bug, please report it to the specific project's issue tracke
 
 ## Questions and Feedback
 
-For general questions or feedback, please contact us at [pontushenrikssn@gmail.com](mailto:pontushenrikssn@gmail.com).
+For general questions or feedback, please contact us at [pontus@henriksson.space](mailto:pontus@henriksson.space).
 
 We are dedicated to providing a helpful experience and will do our best to assist you.
+
+<!-- THIS NEEDS UPDATING. This text is outdated and has the wrong text. -->

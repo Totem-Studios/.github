@@ -31,3 +31,5 @@ By contributing, you agree that your contributions will be licensed under its pr
 ## References
 
 This document was adapted from the open source contribution guidelines.
+
+<!-- THIS NEEDS UPDATING. This text is outdated and has the wrong text. -->

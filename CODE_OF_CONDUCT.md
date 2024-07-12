@@ -24,4 +24,6 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [pontushenrikssn@gmail.com](mailto:pontushenrikssn@gmail.com).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [pontus@henriksson.space](mailto:pontus@henriksson.space).
+
+<!-- THIS NEEDS UPDATING. This text is outdated and has the wrong text. -->
