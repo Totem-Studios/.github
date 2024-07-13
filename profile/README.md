@@ -83,10 +83,10 @@
 ### Contributing
 
 > [!IMPORTANT]<br>
-> If you would like to submit a criticial bug or error, this could include security vulnerabilities, a current attack or even memory issues. Please report this to us immediately _privately_ through email to one of us:
+> If you would like to submit a critical bug or error, this could include security vulnerabilities, a current attack, or even memory issues. Please report this to us immediately _privately_ through email to one of us:
 >
 > - **Pontus Henriksson**: <a href="mailto:pontus@henriksson.space">pontus@henriksson.space</a>
-> - **Lucas Norman**: <a href="mailto:pontus@henriksson.space">pontus@henriksson.space</a> <!-- Update Lucas email -->
+> - **Lucas Norman**: <a href="mailto:lucas.norman007@gmail.com">lucas.norman007@gmail.com</a>
 > - **Neo Mannskar**: <a href="mailto:neo.mannskar@gmail.com">neo.mannskar@gmail.com</a>
 
 Your contributions and feedback are what help us grow and improve. If you're interested in contributing to any of our projects or have valuable feedback, please don't hesitate to reach out by email or read [our guide on how to contribute](../CONTRIBUTING.md).
