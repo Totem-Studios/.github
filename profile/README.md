@@ -80,6 +80,8 @@
 > - **Pontus Henriksson**: <a href="mailto:pontus@henriksson.space">pontus@henriksson.space</a>
 > - **Lucas Norman**: <a href="mailto:lucas.norman007@gmail.com">lucas.norman007@gmail.com</a>
 > - **Neo Mannskar**: <a href="mailto:neo.mannskar@gmail.com">neo.mannskar@gmail.com</a>
+>
+> Do not disclose the vulnerability publicly until we have had the chance to address it. We ensure that reports will be handled confidentially and shared only with the necessary members of the organization.
 
 We value your contributions and feedback. If you are interested in contributing to our projects or have valuable insights to share, please refer to [our contribution guide](../CONTRIBUTING.md) or reach out to us via email. Your support helps us grow and improve continuously.
 
