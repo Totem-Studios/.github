@@ -42,26 +42,18 @@
 <br />
 
 <p align="center">
-  Welcome to the official GitHub page of Totem Studios! We are dedicated to
-  building powerful software solutions with a focus on ease of use and
-  efficiency. Our projects range from terminal-based applications to
-  full-fledged IDEs and game engines. Dive into our repositories to discover
-  tools that empower your development journey.
-  <!-- Update text -->
+  Welcome to Totem Studios' Official GitHub Page! We build powerful, user-friendly software solutions, from terminal applications to full-fledged IDEs and game engines. Explore our repositories to discover tools that enhance your development journey.
 </p>
 
-<div class="socials" style="display: flex; justify-content: center; gap: 2rem">
-  <a href="https://github.com/Totem-Studios" target="_blank">
-    <img src="" alt="Github icon" />
-    <!-- Github icon -->
+<div align="center">
+  <a href="https://github.com/Totem-Studios" target="_blank" style="margin: 0 1rem">
+    <img src="../assets/icons/github.png" alt="Github icon" style="width: 40px; height: 40px;" />
   </a>
-  <a href="https://discord.gg/9CM9vg8rhR" target="_blank">
-    <img src="" alt="Discord icon" />
-    <!-- Discord icon -->
+  <a href="https://discord.gg/9CM9vg8rhR" target="_blank" style="margin: 0 1rem;">
+    <img src="../assets/icons/discord.png" alt="Discord icon" style="width: 40px; height: 40px;" />
   </a>
-  <a href="https://www.figma.com/@totemstudios" target="_blank">
-    <img src="" alt="Figma icon" />
-    <!-- Figma icon -->
+  <a href="https://www.figma.com/@totemstudios" target="_blank" style="margin: 0 1rem;">
+    <img src="../assets/icons/figma.png" alt="Figma icon" style="width: 40px; height: 40px;" />
   </a>
 </div>
 
@@ -73,9 +65,9 @@
 
 ### Our philosophy
 
-- **Abc**: xyz
-- **Abc**: xyz
-- **Abc**: xyz
+- **User-centric design**: We prioritize ease of use and intuitive interfaces to ensure our tools are accessible to developers of all skill levels.
+- **Open source collaboration**: We believe in the power of community. By sharing our projects openly, we invite contributions and collaboration to drive innovation.
+- **Efficience and performance**: Our software solutions are designed with a focus on efficiency, ensuring high performance and reliability across all applications.
 <!-- Update text -->
 
 &nbsp;
@@ -83,17 +75,17 @@
 ### Contributing
 
 > [!IMPORTANT]<br>
-> If you would like to submit a critical bug or error, this could include security vulnerabilities, a current attack, or even memory issues. Please report this to us immediately _privately_ through email to one of us:
+> For reporting critical bugs or errors, such as security vulnerabilities, ongoing attacks, or memory issues, please contact us <mark>immediately</mark> via email:
 >
 > - **Pontus Henriksson**: <a href="mailto:pontus@henriksson.space">pontus@henriksson.space</a>
 > - **Lucas Norman**: <a href="mailto:lucas.norman007@gmail.com">lucas.norman007@gmail.com</a>
 > - **Neo Mannskar**: <a href="mailto:neo.mannskar@gmail.com">neo.mannskar@gmail.com</a>
 
-Your contributions and feedback are what help us grow and improve. If you're interested in contributing to any of our projects or have valuable feedback, please don't hesitate to reach out by email or read [our guide on how to contribute](../CONTRIBUTING.md).
+We value your contributions and feedback. If you are interested in contributing to our projects or have valuable insights to share, please refer to [our contribution guide](../CONTRIBUTING.md) or reach out to us via email. Your support helps us grow and improve continuously.
 
 ### Licensing
 
-Please note that most of our projects are open source and don't require express permission for use but that might differ on some projects. Always check the `LICENSE.md` file within each repository for specific licensing details about that specific project.
+Most of our projects are open-source and available for use without explicit permission. However, licensing terms may vary for certain projects. Please refer to the `LICENSE.md` file within each repository for detailed information on the specific licensing terms applicable to that project.
 
 ---
 
