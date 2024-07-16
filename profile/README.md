@@ -25,18 +25,14 @@
 <br />
 
 <p align="center">
-  <a href="#">
-    <img src="" />
-    <!-- Stars badge for current repo -->
-  </a>
-  <a href="#">
-    <img src="" />
-    <!-- Latest release version for current repo -->
-  </a>
-  <a href="#">
-    <img src="" />
-    <!-- Issues for current repo -->
-  </a>
+  <img src="https://img.shields.io/github/stars/Totem-Studios/.github?style=flat-square
+    " />
+  <img src="../assets/icons/blank.png" width="6px">
+  <img src="https://img.shields.io/github/v/release/Totem-Studios/.github?style=flat-square
+  " />
+  <img src="../assets/icons/blank.png" width="6px">
+  <img src="https://img.shields.io/github/issues/Totem-Studios/.github?style=flat-square
+  " />
 </p>
 
 <br />
@@ -46,13 +42,15 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Totem-Studios" target="_blank" style="margin: 0 1rem">
+  <a href="https://github.com/Totem-Studios" target="_blank" >
     <img src="../assets/icons/github.png" alt="Github icon" style="width: 40px; height: 40px;" />
   </a>
-  <a href="https://discord.gg/9CM9vg8rhR" target="_blank" style="margin: 0 1rem;">
+  <img src="../assets/icons/blank.png" width="20px">
+  <a href="https://discord.gg/9CM9vg8rhR" target="_blank" >
     <img src="../assets/icons/discord.png" alt="Discord icon" style="width: 40px; height: 40px;" />
   </a>
-  <a href="https://www.figma.com/@totemstudios" target="_blank" style="margin: 0 1rem;">
+  <img src="../assets/icons/blank.png" width="20px">
+  <a href="https://www.figma.com/@totemstudios" target="_blank" >
     <img src="../assets/icons/figma.png" alt="Figma icon" style="width: 40px; height: 40px;" />
   </a>
 </div>
@@ -68,7 +66,6 @@
 - **User-centric design**: We prioritize ease of use and intuitive interfaces to ensure our tools are accessible to developers of all skill levels.
 - **Open source collaboration**: We believe in the power of community. By sharing our projects openly, we invite contributions and collaboration to drive innovation.
 - **Efficience and performance**: Our software solutions are designed with a focus on efficiency, ensuring high performance and reliability across all applications.
-<!-- Update text -->
 
 &nbsp;
 
@@ -96,8 +93,6 @@ Most of our projects are open-source and available for use without explicit perm
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="" />
-    <!-- License for current repo -->
-  </a>
+  <img src="https://img.shields.io/github/license/Totem-Studios/.github?style=flat-square
+    " />
 </p>
