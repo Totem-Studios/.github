@@ -14,7 +14,7 @@ We use GitHub to host code, track issues and feature requests, and accept pull r
 
 ## Any contributions you make will be under the same open source license
 
-When you submit code changes, your submissions are understood to be under the same [open source license](LICENSE.md) that covers the project.
+When you submit code changes, your submissions are understood to be under the same [open source license](LICENSE) that covers the project.
 
 ## Report bugs using GitHub issues
 

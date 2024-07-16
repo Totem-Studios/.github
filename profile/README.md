@@ -84,7 +84,7 @@ We value your contributions and feedback. If you are interested in contributing 
 
 ### Licensing
 
-Most of our projects are open-source and available for use without explicit permission. However, licensing terms may vary for certain projects. Please refer to the `LICENSE.md` file within each repository for detailed information on the specific licensing terms applicable to that project.
+Most of our projects are open-source and available for use without explicit permission. However, licensing terms may vary for certain projects. Please refer to the `LICENSE` file within each repository for detailed information on the specific licensing terms applicable to that project.
 
 ---
 
